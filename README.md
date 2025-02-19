@@ -76,7 +76,3 @@ A aplicação foi desenvolvida para aceitar arquivos `.csv` que sigam o padrão 
 
 ## Base do Projeto
 Este projeto foi desenvolvido seguindo as instruções da formação da **Alura**, aplicando conceitos de aprendizado de máquina e análise de dados para fornecer insights úteis para estratégias de marketing.
-
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
